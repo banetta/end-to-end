@@ -12,3 +12,9 @@
 - 지리산
 - 산수유
 - 유리창 끝! 수고하셨어요 :) 
+- 고생하셨습니다~
+
+---
+# Coordinator
+- 김한상(banetta) https://github.com/banetta
+- 반기림(rphabet) https://github.com/Rphabet
